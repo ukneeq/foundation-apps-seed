@@ -11,6 +11,8 @@ The seed app doesn't do much, just shows how to wire two controllers and views t
 ## Community Awesomeness and Credit
 The open source community is awesome and there are tons of great code out there. This helps to not have to re-create the wheel everytime. With that in mind, I used the [Angular Seed Project](https://github.com/angular/angular-seed) as inspiration for this. So the sample app will be close to identical except with foundation for apps worked in.
 
+I also used the [Foundation for Apps Template](https://github.com/zurb/foundation-apps-template) as a base for the setup of foundation in this project. 
+
 ## Getting Started
 
 To get you started you can simply clone the foundation-apps-seed repository and install the dependencies:
