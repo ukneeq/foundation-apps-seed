@@ -1,4 +1,4 @@
-# foundation-apps-seed --- Seed for Apps using Foundation for Apps w/Angularjs
+# foundation-apps-seed — Seed for Apps using Foundation for Apps w/Angularjs
 This project is an application skeleton for a typical [Foundation App](http://foundation.zurb.com/apps/) that utilizes [AngularJS](http://angularjs.org/).
 You can use it to quickly bootstrap your foundation/angular webapp projects and dev environment for these projects.
 
