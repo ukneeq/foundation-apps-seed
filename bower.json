@@ -1,0 +1,11 @@
+{
+  "name": "foundation-for-apps-seed",
+  "description": "A starter project for AngularJS apps using Foundation for Apps",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ukneeq/foundation-apps-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "foundation-apps": "~1.0.2"
+  }
+}
