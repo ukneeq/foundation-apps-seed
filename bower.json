@@ -3,6 +3,9 @@
   "description": "A starter project for AngularJS apps using Foundation for Apps",
   "version": "0.0.1",
   "homepage": "https://github.com/ukneeq/foundation-apps-seed",
+  "authors": [
+    { "name": "Fedil Grogan", "email": "fedil@ukneeq.com", "homepage": "http://fedil.ukneeq.com" }
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {
