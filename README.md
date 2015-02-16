@@ -108,9 +108,19 @@ e2e-tests/            --> end-to-end tests
 
 For more information on AngularJS please check out http://angularjs.org/
 
-Other resource information can be found at the following:
+Other resource information can be found at the following: 
 
-[foundation apps]: http://foundation.zurb.com/apps/
+* [Foundation for Apps][foundation-apps]
+* [git][git]
+* [bower][bower]
+* [npm][npm]
+* [node][node]
+* [protractor][protractor]
+* [jasmine][jasmine]
+* [karma][karma]
+* [http-server][http-server]
+
+[foundation-apps]: http://foundation.zurb.com/apps/
 [git]: http://git-scm.com/
 [bower]: http://bower.io
 [npm]: https://www.npmjs.org/
