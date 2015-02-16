@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "description": "A starter project for AngularJS apps using Foundation for Apps",
   "repository": "https://github.com/ukneeq/foundation-apps-seed.git",
+  "author": { "name" : "Fedil Grogan", 
+    "email" : "fedil@ukneeq.com",
+    "url" : "http://fedil.ukneeq.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.12",
