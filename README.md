@@ -1,4 +1,6 @@
 # foundation-apps-seed — Seed for Apps using Foundation for Apps w/Angularjs
+[![Foundation for Apps Tutorial](http://fedil.ukneeq.com/wp-content/uploads/2015/02/foundation-apps-angularjs.png)](http://fedil.ukneeq.com/technology/tutorial-foundation-for-apps-setup-with-angularjs-best-practices/)
+
 This project is an application skeleton for a typical [Foundation App](http://foundation.zurb.com/apps/) that utilizes [AngularJS](http://angularjs.org/).
 You can use it to quickly bootstrap your foundation/angular webapp projects and dev environment for these projects.
 
@@ -101,3 +103,20 @@ e2e-tests/            --> end-to-end tests
   protractor-conf.js    --> Protractor config file
   scenarios.js          --> end-to-end scenarios to be run by Protractor
 ```
+
+## Resources
+
+For more information on AngularJS please check out http://angularjs.org/
+
+Other resource information can be found at the following:
+
+[foundation apps]: http://foundation.zurb.com/apps/
+[git]: http://git-scm.com/
+[bower]: http://bower.io
+[npm]: https://www.npmjs.org/
+[node]: http://nodejs.org
+[protractor]: https://github.com/angular/protractor
+[jasmine]: http://jasmine.github.io
+[karma]: http://karma-runner.github.io
+[travis]: https://travis-ci.org/
+[http-server]: https://github.com/nodeapps/http-server
