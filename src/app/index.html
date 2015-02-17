@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" ng-app="application">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundation Angular Seed</title>
+    <link href="/css/jcp.css" rel="stylesheet" type="text/css">
+    <script src="/components/lib/foundation.js"></script>
+    <script src="/jcp.js"></script>
+    <script src="/view1/view1.js"></script>
+    <script src="/view2/view2.js"></script>
+    <script src="/components/version/version.js"></script>
+    <script src="/components/version/version-directive.js"></script>
+    <script src="/components/version/interpolate-filter.js"></script>
+  </head>
+  <body>
+    <div class="grid-frame vertical">
+      <div class="grid-content shrink" style="padding: 0;">
+        <ul class="primary vertical medium-horizontal condense menu-bar">
+          <li><a><strong>Foundation for Apps</strong></a></li>
+          <li><a ui-sref="home">Home</a></li>
+          <li><a ui-sref="about">About</a></li>
+          <li><a ui-sref="home">News</a></li>
+          <li><a ui-sref="home">Contact</a></li>
+        </ul>
+      </div>
+      <div class="grid-content">
+        <div class="grid-container">
+          <div ng-class="['ui-animation']" ui-view></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
