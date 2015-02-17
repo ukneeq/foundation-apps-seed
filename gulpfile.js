@@ -29,7 +29,7 @@ var foundationJS = [
   'src/app/bower_components/tether/tether.js',
   'src/app/bower_components/angular/angular.js',
   'src/app/bower_components/angular-animate/angular-animate.js',
-  'src/app/bower_components/ui-router/release/angular-ui-router.js',
+  'src/app/bower_components/angular-ui-router/release/angular-ui-router.js',
   'src/app/bower_components/foundation-apps/js/vendor/**/*.js',
   'src/app/bower_components/foundation-apps/js/angular/**/*.js',
   '!src/app/bower_components/foundation-apps/js/angular/app.js'
