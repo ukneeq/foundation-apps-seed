@@ -35,9 +35,9 @@ var foundationJS = [
   '!src/app/bower_components/foundation-apps/js/angular/app.js'
 ];
 // These files are for your app's JavaScript
-var sassPaths = [
-  'src/app/assets/scss',
-  'src/app/bower_components/foundation-apps/scss'
+var appJS = [
+  'src/app/**/*.js',
+  '!src/app/bower_components/**/*.js'
 ];
 
 // 3. TASKS
