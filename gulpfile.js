@@ -67,7 +67,7 @@ gulp.task('copy', function() {
     .pipe(gulp.dest('./dist/img/iconic/'));
 
   // Foundation's Angular partials
-  return gulp.src(['.src/app/bower_components/foundation-apps/js/angular/components/**/*.html'])
+  return gulp.src(['./src/app/bower_components/foundation-apps/js/angular/components/**/*.html'])
     .pipe(gulp.dest('./dist/components/lib'));
 });
 
