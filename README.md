@@ -106,6 +106,11 @@ e2e-tests/            --> end-to-end tests
   scenarios.js          --> end-to-end scenarios to be run by Protractor
 ```
 
+## TODO
+
+* Need to write out the unit and e2e-tests and make sure everything is included to perform the tests. 
+* Provide more foundation base examples
+
 ## Resources
 
 For more information on AngularJS please check out http://angularjs.org/
