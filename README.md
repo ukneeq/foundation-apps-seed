@@ -6,7 +6,7 @@ You can use it to quickly bootstrap your foundation/angular webapp projects and 
 
 The seed contains a sample application and is preconfigured to install the AngularJS and Foundation for Apps frameworks as well as a bunch of development and testing tools for instant web development gratification.
 
-The seed app doesn't do much, just shows how to wire two controllers and views together.
+The seed app doesn't do much, just shows how to wire two controllers and views together. I have also started a [tutorial for foundation for apps](http://fedil.ukneeq.com/technology/tutorial-foundation-for-apps-setup-with-angularjs-best-practices/). Feel free to check it out.
 
 ## Community Awesomeness and Credit
 The open source community is awesome and there are tons of great code out there. This helps to not have to re-create the wheel everytime. With that in mind, I used the [Angular Seed Project](https://github.com/angular/angular-seed) as inspiration for this. So the sample app will be close to identical except with foundation for apps worked in.
